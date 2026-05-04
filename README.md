@@ -54,8 +54,6 @@ It is built using **Java (IntelliJ IDEA)** for backend and a responsive frontend
 <p align="center">
   <img src="https://github.com/user-attachments/assets/61716596-6996-4815-bffb-0daff623f358" width="900"/>
 </p>
-
-
 ---
 
 ### 🧑‍💻 Admin Dashboard
