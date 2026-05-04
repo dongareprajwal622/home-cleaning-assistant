@@ -28,3 +28,6 @@ A web-based Home Cleaning Assistant system that simplifies service booking, empl
 
 ## 📸 Screenshots
 (Add your project images here)
+
+home page 
+<img width="1870" height="902" alt="Screenshot 2025-12-04 222439" src="https://github.com/user-attachments/assets/8d42c924-9349-4ffa-b953-ea46b197d5af" />
